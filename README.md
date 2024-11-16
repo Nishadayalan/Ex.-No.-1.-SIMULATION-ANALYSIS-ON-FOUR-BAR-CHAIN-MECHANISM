@@ -53,7 +53,9 @@
 
 
 ## Output:
-![WhatsApp Image 2024-09-30 at 15 44 39_86667ff7](https://github.com/user-attachments/assets/861eb379-815a-4752-8e04-a62258fcb140)
+![SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM 1](https://github.com/user-attachments/assets/a8df58d8-7171-4530-8f89-dbf7e40cb4dd)
+![SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM 2](https://github.com/user-attachments/assets/1128fb69-1b5c-4160-a73e-ff446f4cfc4c)
+![SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM 3](https://github.com/user-attachments/assets/91f151af-3540-4f5b-b315-b342d342b3b1)
 
 
 
